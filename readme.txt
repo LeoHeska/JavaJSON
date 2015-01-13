@@ -1,0 +1,1 @@
+Runs with Java 8 and jackson-core-2.2.3.jar

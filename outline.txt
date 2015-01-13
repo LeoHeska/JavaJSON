@@ -1,0 +1,46 @@
+1|object|
+1.1|field|ipinfo
+1.1.1|object|
+1.1.1.1|field|junk
+1.1.1.1.1|array|
+1.1.1.1.1.1|int|1
+1.1.1.1.1.2|int|2
+1.1.1.1.1.3|int|3
+1.1.1.1.1.4|int|4
+1.1.1.1.1.5|int|5
+1.1.1.2|field|junk1
+1.1.1.2.1|array|
+1.1.1.3|field|ip_address
+1.1.1.3.1|string|131.208.128.15
+1.1.1.4|field|ip_type
+1.1.1.4.1|string|Mapped
+1.1.1.5|field|Location
+1.1.1.5.1|object|
+1.1.1.5.1.1|field|continent
+1.1.1.5.1.1.1|string|north america
+1.1.1.5.1.2|field|latitude
+1.1.1.5.1.2.1|float|30.1
+1.1.1.5.1.3|field|longitude
+1.1.1.5.1.3.1|float|-81.714
+1.1.1.5.1.4|field|CountryData
+1.1.1.5.1.4.1|object|
+1.1.1.5.1.4.1.1|field|country
+1.1.1.5.1.4.1.1.1|string|united states
+1.1.1.5.1.4.1.2|field|country_code
+1.1.1.5.1.4.1.2.1|string|us
+1.1.1.5.1.5|field|region
+1.1.1.5.1.5.1|string|southeast
+1.1.1.5.1.6|field|StateData
+1.1.1.5.1.6.1|object|
+1.1.1.5.1.6.1.1|field|state
+1.1.1.5.1.6.1.1.1|string|florida
+1.1.1.5.1.6.1.2|field|state_code
+1.1.1.5.1.6.1.2.1|string|fl
+1.1.1.5.1.7|field|CityData
+1.1.1.5.1.7.1|object|
+1.1.1.5.1.7.1.1|field|city
+1.1.1.5.1.7.1.1.1|string|fleming island
+1.1.1.5.1.7.1.2|field|postal_code
+1.1.1.5.1.7.1.2.1|string|32003
+1.1.1.5.1.7.1.3|field|time_zone
+1.1.1.5.1.7.1.3.1|int|-5
